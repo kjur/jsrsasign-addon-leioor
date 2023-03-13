@@ -15,7 +15,7 @@
 	"LEI",
 	"OOR",
 	"certificate",
-	"extension"
+	"extension",
         "oid"
     ],
     "author": "Kenji Urushima",
