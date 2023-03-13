@@ -2,6 +2,7 @@ const VERSION = "0.9.1";
 const VERSION_FULL = "jsrsasign-addon-leioor 0.9.1 (c) Kenji Urushima github.com/kjur/jsrsasign-addon-leioor";
 
 const OIDs = {
+    // ISO 17442-2
     "LEI":		"1.3.6.1.4.1.52266.1",
     "Role":		"1.3.6.1.4.1.52266.2"
 };
